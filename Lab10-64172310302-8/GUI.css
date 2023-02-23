@@ -1,0 +1,52 @@
+.sdt-g {
+    background-color: rgb(255, 171, 251);
+    text-align: center;
+    margin: 0px 200px;
+    padding: 10px;
+
+}
+
+.sdt-i {
+    background-color: rgb(131, 210, 247);
+    text-align: center;
+    margin: 0px 200px;
+    padding: 10px;
+}
+.sdt-i form input[type=submit],.sdt-g form input[type=submit]{
+    margin: 10px auto;
+}
+
+.sdt-i table {
+    width: 20%;
+    margin: 0 auto;
+}
+
+.sdt-i-td-1 {
+    width: 30%;
+}
+
+
+.sdt-i-td-2 {
+    text-align: center;
+    width: 70%;
+}
+
+.sdt-i-td-2 input {
+    width: 95%;
+}
+
+
+.sd {
+    border: solid 1px;
+    padding: 1px;
+    width: 600px;
+}
+
+.sd tr td {
+    border: solid 1px;
+    padding: 1px;
+}
+
+.sd-b-r td {
+    background-color: rgb(247, 117, 117);
+}
